@@ -14,6 +14,10 @@ button:focus{
     outline: auto;
 }
 
+button:hover{
+    background: rgb(250, 128, 76);
+}
+
 textarea::-webkit-scrollbar{
     display: none;
 }
